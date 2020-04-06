@@ -26,9 +26,11 @@ Python 3:
 ### Original Ideas
 
 From naive idea compress character -> compress gray image -> compress RBG image
+
 I want to save exactly compress file size follow original algorithm.
 
 Algorithm LZW has not resolved is write to file. I want to save exactly file size so my proposal is save 1 file for 1 element LWZ.Consequently, LWZ will take more time because save all file.
+
 If you have a better way, please let me know.
 
 
