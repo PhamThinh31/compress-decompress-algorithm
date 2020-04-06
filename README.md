@@ -33,6 +33,7 @@ If you have a better way, please let me know.
 
 
 Example input:
+
 ![Input image](/image/tiger.bmp)
 
 Output RBG:
